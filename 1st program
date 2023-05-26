@@ -1,1 +1,35 @@
+ #include<iostream>
+using namespace std;
 
+int main(){
+
+   cout << "Namaste oolagam :) I am Sanjay" <<endl;
+
+   int x = 1212;
+
+
+    cout << x <<endl;
+
+std::string name = "John Doe"; 
+  
+cout << "Name: " << name << std::endl;
+
+  int a = 2;
+  int b = 3;
+
+  bool f  = (a==b);
+
+  cout<<f<<endl;
+
+  bool g  = (a!=b);
+
+  cout<<g<<endl;
+
+  bool h  = (a>=b);
+
+  cout<<h<<endl;
+
+  bool i  = (a<=b);
+
+  cout<<i<<endl;
+  
